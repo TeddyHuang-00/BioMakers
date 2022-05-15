@@ -1,0 +1,5 @@
+numpy
+streamlit
+tzlocal
+opencv_python
+skimage
